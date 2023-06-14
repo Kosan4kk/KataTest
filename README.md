@@ -1,0 +1,2 @@
+# KataTest
+Kata Academy Testing
